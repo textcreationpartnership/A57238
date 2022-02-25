@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration against wigs or periwigs</title>
+            <author>Richardson, Richard, 1623?-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57238</idno>
+            <idno type="STC">Wing R1393</idno>
+            <idno type="STC">ESTC R16241</idno>
+            <idno type="EEBO-CITATION">12431849</idno>
+            <idno type="OCLC">ocm 12431849</idno>
+            <idno type="VID">61981</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61981)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 947:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration against wigs or periwigs</title>
+                  <author>Richardson, Richard, 1623?-1689.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Richard Richardson. cf. NUC pre-1956.</note>
+                  <note>Caption title.</note>
+                  <note>A Quaker tract.</note>
+                  <note>Signed at end: Richard Richardson.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends.</term>
+               <term>Wigs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:61981:1"/>
+            <head>A DECLARATION Againſt <hi>Wigs or Periwigs.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Phil.</hi> 3.3. <hi>Jer.</hi> 22.24.</bibl>
+                  <p>
+                     <hi>Wigs</hi> no <hi>Peri-Wigs.</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>[Peri]</hi> in compoſition ſignifies [Excellency,] as well as [about]<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> excellent cut, as well as cut about.</p>
+               </q>
+            </epigraph>
+            <p>SEveral Teſtimonies having been given by Friends againſt Pride in Apparel relating to Women; 'tis conſiderable whether Wo<g ref="char:EOLhyphen"/>men being reflected on may not reaſonably reflect on Men, their artificial frizled Hair; for Womens Hairs on Mens Heads ſwarm like one of <hi>Egypts</hi> Plagues, and creep in too much upon and among Chriſtians. And a <hi>Nehemiah</hi> is deſirable, that might pluck off this ſtrange Hair of ſtrange Women luſted after, <hi>Nehem.</hi> 13.25. And the <hi>Heathen</hi> may riſe up againſt us, for an Ambaſſador coming before a Senate with falſe Hair, a Grave Senator ſaid, <hi>What credit is to be had to him whoſe very Locks do lye?</hi> And if upon neceſſity the Locks of any amongſt us do lye, 'tis fit they ſhould lie to purpoſe, <hi>viz.</hi> ſo as not to be diſcerned from native Locks: For to ſeek to deceive, ſo as to be perceived, argues as much want of Wit as of Sincerity; and a want of an endeavour in it not to be perceived, argues a want of Humility and Moderation.</p>
+            <p>
+               <hi>Iſocrates,</hi> a Famous, Wiſe, Virtuous <hi>Graecian,</hi> ſeeing his Neighbour wear his Hair of another colour than Natural, becauſe in Faſhion, gave this ironical excuſe for him, <hi>viz. That it was leſt any ſhould ask Counſel of him;</hi> intimating that none ſhould ſeek Wiſdom in ſo Fanta<g ref="char:EOLhyphen"/>ſtical a Head.</p>
+            <p>
+               <hi>Philip</hi> King of <hi>Macedon,</hi> put a Courtier of his out of his Office, becauſe he wore Hair of another colour than Natural; ſaying, <hi>He would not be true to the Publick, that was treacherous to his own Hairs.</hi>
+            </p>
+            <pb n="2" facs="tcp:61981:2"/>
+            <p>And the Emperour <hi>Titus</hi> thruſt one form him, becauſe he ſmelt of Purfume, ſaying, <hi>He had rather he had ſmelt of Garlick;</hi> and denied him his Suit.</p>
+            <p>
+               <hi>Plato,</hi> in the Tyrant <hi>Dionyſius</hi>'s Court, ſaid, <hi>He would not wear Wo<g ref="char:EOLhyphen"/>mens Attire.</hi> Then,
+<q>
+                  <l>What wonder Women wear Gay Gold and Pearls,</l>
+                  <l>When Men Religious wear Gold Locks of Girles?</l>
+                  <l>Should Chriſtian Guides affect a Whoriſh Guiſe,</l>
+                  <l>Which Heathen tempt by Tyrant did diſpiſe?</l>
+               </q>
+            </p>
+            <p>I have read in our Chronicles (I think it was about the twelfth Age) that the Clergy wore Periwigs of a light Colour, as our Prieſts and others do now; though I have heard that of late the Biſhop of <hi>Exe<g ref="char:EOLhyphen"/>ter,</hi> cenſur'd his Prieſts, in his Viſitation, for wearing them.</p>
+            <p>The Phyſician is but a courſe Covering, as if wearing of Gold and ſhaving of Heads were Wholeſome: This pretence for Pride, is no better than that which is for Drunkenneſs and Whoredom; for they will ſay, <hi>'Tis Phyſick to be Drunk once a Month: And</hi> Oxford <hi>Scholars had half a Crown a Month allow'd to go to a Whore,</hi> ad purgandos <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enes. But the <hi>Proteſtants</hi> of <hi>Bohemia</hi> diſputing at the Council of <hi>Baſil,</hi> about Fifty Days on Four Queſtions, one of them was, <hi>That no Sin ſhould be To<g ref="char:EOLhyphen"/>lerated to prevent a greater:</hi> Then much leſs to prevent a bodily Infir<g ref="char:EOLhyphen"/>mity, which may be done by other lawful means, and not by work<g ref="char:EOLhyphen"/>ing Confuſion in wearing Womens Coverings, <hi>Deut.</hi> 22.5. 1 <hi>Cor.</hi> 11.15. Some ſay, <hi>Shaving is to prevent the Pox;</hi> Small honour to Wig-wearers to incur ſuch a ſuſpition of it, or of any Infirmity or De<g ref="char:EOLhyphen"/>fect. If Heat cauſe Head-ach, ſure a Wig under a Hat is not a means to cure it. The Prophet <hi>Eliſha</hi> likely had neither, when <hi>Bethel</hi> Boys cried, <hi>Abald Head.</hi> Polling of Heads came firſt in Faſhion, by occa<g ref="char:EOLhyphen"/>ſion of the Emperor <hi>Charles</hi> the Fifth, his being troubled with the Head-ach; whoſe Example all his Court followed, and all <hi>Europe</hi> theirs; (ſee ye the force of Example, and the abuſe of it) yet they wore no Wigs: Inſomuch, that a Ruſſian with long Hair, meeting Earl <hi>Crom<g ref="char:EOLhyphen"/>well,</hi> and excuſing himſelf that he had a Vow for it, the Earl told him, <hi>He ſhould lye in Priſon till 'twas ended.</hi> One would think, that they that have for wearing Wigs the moſt excuſe, ſhould have moſt care to ſtop the abuſe coming by Example, that it may not produce the taking of an Ell, through the allowance of an Inch; and that they ſhould ſtir up Sober, Virtuous People to take notice how far they that wear them are neceſſitated thereto; and if ſo, what Modeſty they uſed therein. This
+<pb n="3" facs="tcp:61981:2"/>as cold Water to daſh them, expects ſomething a coming hotter than a Criſping-Iron to burn them.</p>
+            <p>
+               <hi>John Mulliner,</hi> a Friend about <hi>Northamton,</hi> a <hi>Wig-Maker,</hi> left off his Trade, and was made to burn one in his Prentices ſight, and Print a<g ref="char:EOLhyphen"/>gainſt it. <hi>John Hall,</hi> a Gentleman of <hi>Northumberland,</hi> being Convinced, ſitting it a Meeting, was ſhaken by the Lords Power, pluck'd off, and threw down his Wig; ſo 'tis conſiderable whether care may not be taken,<note place="margin">Calvus bald.</note> that conceited conterfit <hi>Calviniſts</hi> may not continue amongſt us, nor that any of the People of God make themſelves bald for Pride now, as they did of old for Sorrow, <hi>Levit.</hi> 21.5.</p>
+            <p>Objection, <hi>Wigs may be worn not only for <g ref="char:V">Ʋ</g>ſe, but Ornament.</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> It appears very oppoſt to the Apoſtles Doctrin, and alſo their Practice; for not only the Apoſtle <hi>James, James</hi> 2.2. reproves reſpect to gay Cloathing in general, (and is not Gay Cloathing to gain Reſpect, as Modeſt is to avoid Contempt) but alſo in parti<g ref="char:EOLhyphen"/>cular, the Apoſtles <hi>Peter</hi> and <hi>Paul</hi> forbad ornament of plat<g ref="char:EOLhyphen"/>ted Hair, (as ours tranſlate,<note place="margin">1 Pet. 3.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1 Tim. 2.9. Vulger tortis. Lucian, Clemens, Chryſoſtom.</note> Criſped or Curled as others) and the Ancients write, that they both had <hi>Bald-Heads;</hi> and if they ſhould have covered them with Womens Hair, would they not have retorted, <hi>Was that the Cauſe,</hi> Peter <hi>and</hi> Paul, <hi>that you bad us leave off our Locks, that you, and ſuch like, might get them your ſelves, to make Peri-wigs of?</hi> Can any Chriſtian believe, that <hi>Peter</hi> and <hi>Paul</hi> would run into ſuch an abſurdity? who 'tis very probable, re<g ref="char:EOLhyphen"/>ſtrained Women, not Men, expreſsly as needleſs. <hi>Solon,</hi> a Wiſe, Virtuous Lawgiver, made none againſt Parricide, as not to be ſup<g ref="char:EOLhyphen"/>poſed. It was a ſhame then, for Men to have long Hair naturally like Women, among the <hi>Greeks</hi> and <hi>Romans</hi> too: For <hi>Julius Caeſar,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s I remember, was by his Foes called ſcornfully <hi>[Puer comatus] Long hair'd Lad, viz.</hi> in effect, <hi>a Laſs.</hi> Was it then likely they would wear long Wigs of Laſſes Hair for an Ornament? <hi>Woodland</hi> a Martyr, a Deacon, taunted by a Perſecuting Biſhop (for his ſtock'd Hoſe) ſay<g ref="char:EOLhyphen"/>ing, <hi>He was deck'd like a Deacon,</hi> anſwered, <hi>More like a Deacon, then thou like an Apoſtle.</hi> True, For if Deacons Wives muſt be Grave and Sober, and their Ornament not outward but inward, much rather the Deacons, and then much more Biſhops. And moſt Apoſtles, whom Chriſt ſent forth with Sandals, a ſingle Coat, <hi>&amp;c. Math.</hi> 10.10. whoſe Examples the famouſeſt Primitive Chriſtians followed. <hi>Origen</hi> went in a plain Coat, bare Footed, and that too before the Emperor, who yet admired his Majeſty. <hi>Tertullian</hi> left off the Gown, and took
+<pb n="4" facs="tcp:61981:3"/>the plain Coat, for which he wrote a Book <hi>Dopallio. Clemens</hi> wore a White Coat, and writes in defence thereof. So did <hi>John Huſs</hi> the Mar<g ref="char:EOLhyphen"/>tyr, the eminenteſt Preacher in <hi>Bohemia,</hi> and bequeathed his White Coat to one, his Gray Coat to an another; not his White Wig to one, his Brown Wig to another. He ſuffered for oppoſing Preachers Pride.</p>
+            <p>It remains to ſhew, That 'tis not an Ornament, but a Deformity, more then that it would Cover, as if it were not in Faſhion would ap<g ref="char:EOLhyphen"/>pear, even to the ſimple natural Eye. The <hi>Americans</hi> ſeeing one <hi>Captain Morley,</hi> take off his Wig, cryed he had two Heads. And 'twere apt to affright a Child unuſed to it, like the horrid and hideous Head of a Snake-hair-twiſted <hi>Gorgon,</hi> or cristed <hi>Bellona;</hi> as <hi>Homer</hi> ſays <hi>Hector</hi> did his Son with his <hi>Horſe-maned Helmet.</hi> And who can refrain to fall into a Poetical Vein, and Paint it out in ſuch ſad Colours, that it may look as ugly as it doth: For a glorying in a Shame, as an Ornament, ſharppens a Pen to deſcribe it to make it appear as it is. <hi>Difficile eſt ſatyram non ſcribere.</hi>
+            </p>
+            <div type="poem">
+               <lg>
+                  <head>Metamorphoſes.</head>
+                  <l>The manner of this Age unmannerly</l>
+                  <l>Is, Man unmaning, Womens Hair to buy,</l>
+                  <l>
+                     <hi>Dub Poles</hi> and <hi>Joles</hi> Dame <hi>Venus</hi> Knights to be,</l>
+                  <l>Smock-Coat and Petticoat Breech their Livery,</l>
+                  <l>Scarce Man-like Fac'd, though Woman like in Hair,</l>
+                  <l>As ſting-tail'd Locuſts in the Viſion were,</l>
+                  <l>As of <hi>Hyena</hi>'s kind, <hi>Hermaprodites,</hi>
+                  </l>
+                  <l>Or as abus'd <hi>Italian Catamites;</hi>
+                  </l>
+                  <l>And like unto the <hi>Phrygian Ganymede,</hi>
+                  </l>
+                  <l>Or as <hi>Tireſias</hi> Femaliz'd indeed,</l>
+                  <l>Or one that (ſith he would a Woman be)</l>
+                  <l>Put Period to <hi>Aſſyrian</hi> Monarchy.</l>
+                  <l>Hair in a Night turn'd hew, of Old 'twas ſaid,</l>
+                  <l>An Old Man Young, a Boy a Girle was made;</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lders ſo now transformed to Girles appear,</l>
+                  <l>And Girles to Boys by their ſhort curtail'd Hair.</l>
+                  <l>By B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lls ſome ſeem 'ith 'twilight turn'd to Owls,</l>
+                  <l>As Antique <hi>Harpyes</hi> or ſome new Night Fowles,</l>
+                  <l>As charming Sirens (bate their ugly Hair)</l>
+                  <l>Having their Arms, Necks, Breſts, Backs, Shoulders bare,</l>
+                  <l>Nay for their Knights rich Garters ſome prepare.</l>
+               </lg>
+               <closer>
+                  <signed>Richard Richardſon.</signed>
+               </closer>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
